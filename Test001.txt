@@ -1,5 +1,7 @@
 #include<bits/stdc++.h>
 int main(){
+	int sum=0;
 	cout<<"Hello"<<endl;
+	cout<<sum;
 	return 0;
 }
